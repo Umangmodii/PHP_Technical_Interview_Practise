@@ -1,4 +1,4 @@
-<?Php
+<?php
 
 $number = 123;
 $remainder;
